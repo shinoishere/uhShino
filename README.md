@@ -1,4 +1,4 @@
-Hi, I'm sh1no, I'm doing something on my own, follow me.
+Hi, I'm Shino, I'm doing something on my own, follow me.
 <br>
 <br>
 **Languages:**  
