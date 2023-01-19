@@ -35,4 +35,4 @@
 </p>
 
 <img align="center" alt="Shino GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=uhShino&show_icons=true&hide_border=false&icon_color=FFE400&theme=dark&border_color=black" />
-<img align="center" alt="Shino GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=uhShino&theme=dark"/>
+<img alt="Shino GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=uhShino&theme=dark"/>
