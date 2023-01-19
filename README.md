@@ -1,9 +1,9 @@
 # Hi there, I'm Shino, aka uhShino 👋 
-<h3> I am a fun and self-sufficient person, follow me!</h3>
+<h3> I am a fun and self-sufficient person, follow me!
 
 Connect with me:
 Shino#8888
-
+</h3>
 <hr>
 
 ### Languages and Tools:
