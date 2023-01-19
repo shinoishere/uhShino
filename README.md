@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<h2 align="center"> Shino#8888 </h2>
+<h2> Shino#8888 </h2>
 
 <hr>
 
